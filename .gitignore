@@ -1,0 +1,82 @@
+# Node modules
+node_modules/
+
+# Webpack build output (bundled files)
+dist/
+public/dist/
+
+# Log files
+*.log
+logs/
+npm-debug.log*
+
+# Environment variable files
+.env
+.env.*
+
+# Editor specific files
+.idea/
+.vscode/
+
+# Cache & Temp files
+.cache/
+tmp/
+temp/
+
+# Parcel cache
+.cache/
+.parcel-cache/
+
+# Webpack stats
+stats.json
+
+# Build/Release output
+build/
+output/
+
+# Hidden system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Dependency lock files
+package-lock.json
+
+# Testing
+coverage/
+
+# Miscellaneous
+*.bak
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Optional: Uncomment if you're not using these
+# .dockerignore
+# .git
+# .gitattributes
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
